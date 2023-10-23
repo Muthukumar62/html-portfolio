@@ -1,0 +1,30 @@
+body{
+     background-image: url("bank.jpg"); 
+     background-repeat: repeat;
+     background-size: cover;
+     height: 100%;
+     width: 100%;
+}
+nav{
+    width: 75%;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 150px;
+}
+nav ul{
+    float: right;
+} 
+nav ul li{
+    float:left;
+    list-style: none;
+    position: relative;
+} 
+nav ul li a{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
+    font-size: 17px;
+    padding: 0px 16px;
+    display: block;
+}
+  
